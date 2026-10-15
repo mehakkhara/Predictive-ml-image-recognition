@@ -1,6 +1,6 @@
 ---
 title: "Applied Data Science"
-author: "Mehak Khara, Xueyan Zou, Chen(Cici) Chen"
+author: "Mehak Khara
 date: "3/13/2019"
 output:
   prettydoc::html_pretty:
